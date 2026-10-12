@@ -72,7 +72,7 @@ ffmpeg -version
 
 ## Running the script
 
-Open a terminal in the project folder.
+Open terminal.
 
 ### macOS
 
